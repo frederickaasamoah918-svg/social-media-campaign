@@ -1,19 +1,19 @@
 # Social Media Campaign Practice
 
 ## 🎯 Purpose
-This is a learning exercise where I explored how a simple social media campaign could be structured for a brand.
+This is a beginner learning exercise where I explored how a simple social media campaign can be structured.
 
 ---
 
 ## 🧠 What I Practiced
 - Thinking about a target audience  
-- Creating basic campaign ideas  
-- Exploring content formats for social media  
+- Creating simple campaign ideas  
+- Understanding how engagement can be encouraged  
 
 ---
 
 ## 💡 Campaign Idea
-A simple concept called “Share Your Sweet Moment” where users share chocolate moments online.
+“Share Your Sweet Moment” – a simple idea where people share chocolate moments online.
 
 ---
 
@@ -25,9 +25,9 @@ A simple concept called “Share Your Sweet Moment” where users share chocolat
 ---
 
 ## 📊 What I Learned
-- Campaigns start with a clear audience  
-- Engagement comes from simple relatable ideas  
-- User-generated content is powerful in marketing  
+- Campaigns start with understanding people, not just content  
+- Simple ideas can still be effective  
+- User-generated content is important in marketing  
 
 ---
 
